@@ -1,16 +1,6 @@
-name: g_tone
-channels:
-  - conda-forge
-  - defaults
+name: lt
 dependencies:
   - python=3.7
-  - scipy
-  - nose
-  - mock
   - matplotlib
-  - numpy
-  - pandas
   - spyder
-  - scipy
-  - librosa
  
